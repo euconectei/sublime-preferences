@@ -1,0 +1,388 @@
+{
+	"folder_history":
+	[
+		"/Users/euconectei/Repositorios/kanbanban",
+		"/Users/euconectei/Repositorios/fastlab",
+		"/Users/euconectei/Repositorios/iniciantes/manual"
+	],
+	"last_window_id": 2,
+	"settings":
+	{
+		"new_window_height": 752.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"disabl",
+						"disabled"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 87.0,
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"con",
+						"Package Control: Install Package"
+					],
+					[
+						"contr",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/euconectei/Repositorios/iniciantes/_config.yml",
+				"/Users/euconectei/Repositorios/kanbanban/README.md",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/euconectei/Repositorios/fastlab/index.php",
+				"/Users/euconectei/Repositorios/fastlab/content-product_cat.php",
+				"/Users/euconectei/Repositorios/fastlab/loop-start.php",
+				"/Users/euconectei/Repositorios/fastlab/content-product.php",
+				"/Users/euconectei/Repositorios/fastlab/style.less",
+				"/Users/euconectei/Repositorios/fastlab/footer.php",
+				"/Users/euconectei/Repositorios/iniciantes/manual/html/oquetags.html",
+				"/Users/euconectei/Repositorios/iniciantes/assets/stylesheets/style.css",
+				"/Users/euconectei/Repositorios/fastlab/orderby.php",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rodape",
+					"plugin"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"font",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"bor",
+						"border-bottom"
+					],
+					[
+						"pa",
+						"padding"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"disabl",
+						"disabled"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 400.0,
+				"selected_items":
+				[
+					[
+						"contr",
+						"Package Control: Install Package"
+					],
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"con",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 583.0
+			},
+			"console":
+			{
+				"height": 125.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/euconectei/Repositorios/kanbanban/README.md",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/euconectei/Repositorios/fastlab/index.php",
+				"/Users/euconectei/Repositorios/fastlab/content-product_cat.php",
+				"/Users/euconectei/Repositorios/fastlab/loop-start.php",
+				"/Users/euconectei/Repositorios/fastlab/content-product.php",
+				"/Users/euconectei/Repositorios/fastlab/style.less",
+				"/Users/euconectei/Repositorios/fastlab/footer.php",
+				"/Users/euconectei/Repositorios/iniciantes/manual/html/oquetags.html",
+				"/Users/euconectei/Repositorios/iniciantes/assets/stylesheets/style.css",
+				"/Users/euconectei/Repositorios/fastlab/orderby.php",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"rodape",
+					"plugin"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.markdown":
+			{
+				"height": 98.0
+			},
+			"position": "0 4 1280 774 0 0 1280 778 ",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
