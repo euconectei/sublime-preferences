@@ -1,11 +1,15 @@
 {
 	"folder_history":
 	[
+		"/Users/euconectei/Repositorios/teste-node",
+		"/Users/euconectei/Repositorios/iniciantes",
+		"/Users/euconectei/Repositorios/Projetos-Colaborativos",
+		"/Users/euconectei/Documents/Projetos Colaborativos",
 		"/Users/euconectei/Repositorios/kanbanban",
 		"/Users/euconectei/Repositorios/fastlab",
 		"/Users/euconectei/Repositorios/iniciantes/manual"
 	],
-	"last_window_id": 2,
+	"last_window_id": 3,
 	"settings":
 	{
 		"new_window_height": 752.0,
@@ -44,9 +48,13 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 87.0,
+				"height": 400.0,
 				"selected_items":
 				[
+					[
+						"contr",
+						"Package Control: Install Package"
+					],
 					[
 						"instal",
 						"Package Control: Install Package"
@@ -54,13 +62,9 @@
 					[
 						"con",
 						"Package Control: Install Package"
-					],
-					[
-						"contr",
-						"Package Control: Install Package"
 					]
 				],
-				"width": 575.0
+				"width": 583.0
 			},
 			"console":
 			{
@@ -77,9 +81,35 @@
 			},
 			"file_history":
 			[
-				"/Users/euconectei/Repositorios/iniciantes/_config.yml",
-				"/Users/euconectei/Repositorios/kanbanban/README.md",
+				"/Users/euconectei/Repositorios/teste/Gruntfile.js",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/list.json",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/start.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/Gruntfile.js",
+				"/Users/euconectei/Repositorios/iniciantes/README.md",
+				"/Users/euconectei/Repositorios/iniciantes/manual/css/seletores.html",
+				"/Users/euconectei/Documents/Projetos Colaborativos/Texto.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/bibliografia.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/mas-o-que-eu-ganho-com-isso.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/metodologias-ageis.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/github.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/trello.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/git.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/git-o-que.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/quais-ferramentas-eu-uso.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/quem-tem-projeto-colaborativo.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/index.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/bower.json",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/o-que-e-projeto.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/css/main.css",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/colaboracao-ou-cooperacao.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/e-projeto-colaborativo.html",
+				"/Users/euconectei/Documents/Projetos Colaborativos/Texto.md",
+				"/Users/euconectei/Documents/Projetos Colaborativos/slides/index.html",
+				"/Users/euconectei/Documents/Projetos Colaborativos/slides/js/impress.js",
 				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/euconectei/Documents/Projetos Colaborativos/Texto.txt",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/euconectei/Repositorios/kanbanban/README.md",
 				"/Users/euconectei/Repositorios/fastlab/index.php",
 				"/Users/euconectei/Repositorios/fastlab/content-product_cat.php",
 				"/Users/euconectei/Repositorios/fastlab/loop-start.php",
@@ -130,7 +160,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"layout":
 			{
@@ -141,11 +171,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.490265486726,
 					1.0
 				],
 				"rows":
@@ -155,6 +192,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.markdown":
+			{
+				"height": 98.0
+			},
 			"replace":
 			{
 				"height": 0.0
@@ -197,6 +238,22 @@
 						"font-size"
 					],
 					[
+						"im",
+						"important"
+					],
+					[
+						"ba",
+						"background-color"
+					],
+					[
+						"impress-on",
+						"impress-on-ID"
+					],
+					[
+						"bo",
+						"body"
+					],
+					[
 						"mar",
 						"margin-bottom"
 					],
@@ -209,10 +266,6 @@
 						"padding"
 					],
 					[
-						"ba",
-						"background-color"
-					],
-					[
 						"disabl",
 						"disabled"
 					]
@@ -220,19 +273,55 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/Users/euconectei/Repositorios/teste-node/server.js",
+					"settings":
+					{
+						"buffer_size": 892,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/start.html",
+					"settings":
+					{
+						"buffer_size": 71,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/list.json",
+					"settings":
+					{
+						"buffer_size": 4660,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/euconectei/Repositorios/Projetos-Colaborativos/index.html",
+					"settings":
+					{
+						"buffer_size": 1614,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 400.0,
+				"height": 135.0,
 				"selected_items":
 				[
 					[
-						"contr",
+						"instal",
 						"Package Control: Install Package"
 					],
 					[
-						"instal",
+						"install",
+						"Nodejs::NPM::Install"
+					],
+					[
+						"contr",
 						"Package Control: Install Package"
 					],
 					[
@@ -240,7 +329,7 @@
 						"Package Control: Install Package"
 					]
 				],
-				"width": 583.0
+				"width": 440.0
 			},
 			"console":
 			{
@@ -257,9 +346,38 @@
 			},
 			"file_history":
 			[
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/css/main.css",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/index.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/start.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/Gruntfile.js",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/contato.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/list.json",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/css/impressConsole.css",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/config.json",
+				"/Users/euconectei/Repositorios/teste/Gruntfile.js",
+				"/Users/euconectei/Repositorios/iniciantes/README.md",
+				"/Users/euconectei/Repositorios/iniciantes/manual/css/seletores.html",
+				"/Users/euconectei/Documents/Projetos Colaborativos/Texto.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/bibliografia.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/mas-o-que-eu-ganho-com-isso.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/metodologias-ageis.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/github.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/trello.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/git.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/git-o-que.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/quais-ferramentas-eu-uso.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/quem-tem-projeto-colaborativo.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/bower.json",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/o-que-e-projeto.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/colaboracao-ou-cooperacao.html",
+				"/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/e-projeto-colaborativo.html",
+				"/Users/euconectei/Documents/Projetos Colaborativos/Texto.md",
+				"/Users/euconectei/Documents/Projetos Colaborativos/slides/index.html",
+				"/Users/euconectei/Documents/Projetos Colaborativos/slides/js/impress.js",
+				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/euconectei/Documents/Projetos Colaborativos/Texto.txt",
 				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 				"/Users/euconectei/Repositorios/kanbanban/README.md",
-				"/Users/euconectei/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
 				"/Users/euconectei/Repositorios/fastlab/index.php",
 				"/Users/euconectei/Repositorios/fastlab/content-product_cat.php",
 				"/Users/euconectei/Repositorios/fastlab/loop-start.php",
@@ -288,6 +406,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"body",
 					"rodape",
 					"plugin"
 				],
@@ -304,8 +423,132 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/Users/euconectei/Documents/Projetos Colaborativos"
+				},
+				{
+					"path": "/Users/euconectei/Repositorios/Projetos-Colaborativos"
+				},
+				{
+					"path": "/Users/euconectei/Repositorios/iniciantes"
+				}
+			],
 			"groups":
 			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/euconectei/Repositorios/teste-node/server.js",
+							"settings":
+							{
+								"buffer_size": 892,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										892,
+										892
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/start.html",
+							"settings":
+							{
+								"buffer_size": 71,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										25,
+										25
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/Users/euconectei/Repositorios/Projetos-Colaborativos/steps/list.json",
+							"settings":
+							{
+								"buffer_size": 4660,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1465,
+										1465
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Jekyll/Syntaxes/JSON (Jekyll).tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 674.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/Users/euconectei/Repositorios/Projetos-Colaborativos/index.html",
+							"settings":
+							{
+								"buffer_size": 1614,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										966,
+										932
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Jekyll/Syntaxes/HTML (Jekyll).tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				},
 				{
 					"sheets":
 					[
@@ -318,7 +561,7 @@
 			},
 			"input":
 			{
-				"height": 0.0
+				"height": 35.0
 			},
 			"layout":
 			{
@@ -329,11 +572,18 @@
 						0,
 						1,
 						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
 					]
 				],
 				"cols":
 				[
 					0.0,
+					0.490265486726,
 					1.0
 				],
 				"rows":
@@ -373,7 +623,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 150.0,
+			"side_bar_width": 154.0,
 			"status_bar_visible": true,
 			"window_id": 1,
 			"workspace_name": ""
