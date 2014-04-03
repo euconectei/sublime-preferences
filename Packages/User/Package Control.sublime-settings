@@ -1,9 +1,11 @@
 {
 	"installed_packages":
 	[
+		"BeautifyRuby",
 		"Color Highlighter",
+		"EditorConfig",
 		"Jekyll",
-		"jQuery",
+		"JSHint",
 		"LESS",
 		"Markdown Preview",
 		"Nodejs",
@@ -11,6 +13,7 @@
 		"Prefixr",
 		"SideBarEnhancements",
 		"Theme - Spacegray",
-		"WordPress"
+		"WordPress",
+		"Yammy Syntax Highlighting"
 	]
 }
