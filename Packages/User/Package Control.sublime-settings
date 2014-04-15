@@ -3,6 +3,7 @@
 	[
 		"BeautifyRuby",
 		"Color Highlighter",
+		"DocBlockr",
 		"EditorConfig",
 		"Jekyll",
 		"JSHint",
@@ -12,6 +13,7 @@
 		"Package Control",
 		"Prefixr",
 		"SideBarEnhancements",
+		"SublimeLinter",
 		"Theme - Spacegray",
 		"WordPress",
 		"Yammy Syntax Highlighting"
